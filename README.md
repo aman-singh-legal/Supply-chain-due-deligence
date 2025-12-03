@@ -52,7 +52,7 @@ A complete guide to:
 - Reporting requirements  
 - Governance structure and documentation
 
-### 📄 **Supplier_Questionnaire.md**  
+### 📄 [**Supplier_Questionnaire.md**](supplier-questionnaire.md)  
 A detailed due diligence questionnaire covering:
 - Company credentials  
 - Labor practices  
