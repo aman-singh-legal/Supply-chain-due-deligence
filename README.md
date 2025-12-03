@@ -62,7 +62,7 @@ A detailed due diligence questionnaire covering:
 - Certifications  
 - ESG reporting readiness  
 
-### 📄 **Audit_Report_Template.md**  
+### 📄 [**Audit_Report_Template.md**](Audit-Report-Template.md)
 A professional audit template for:
 - On-site inspections  
 - Gap identification  
